@@ -54,9 +54,3 @@ Meus projetos são focados em gerar resultados tangíveis:
 | **LinkedIn** | **[Meu Perfil no LinkedIn](https://www.linkedin.com/in/renan-alves-8725b11b5/)** |
 
 ---
-
-### 📈 Estatísticas do GitHub
-
-[![Renan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenanzitoIA&show_icons=true&theme=dark&locale=pt-br)](https://github.com/RenanzitoIA)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanzitoIA&layout=compact&theme=dark&locale=pt-br)](https://github.com/RenanzitoIA)
