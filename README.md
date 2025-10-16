@@ -1,4 +1,4 @@
-# Olá, sou Renan Alves! 👋
+# Renan Alves 
 
 ### 🚀 Profissional de Gestão Inteligente & Inovação
 
