@@ -2,7 +2,7 @@
 
 ### 🚀 Profissional de Gestão Inteligente & Inovação
 
-Profissional com **mais de 4 anos de experiência** administrativa, focado em **eficiência, organização e entrega de resultados**. Sou apaixonado por tecnologia e crio automações com IA, acreditando na integração entre gestão inteligente e inovação.
+Profissional com **mais de +5 anos de experiência** administrativa, focado em **eficiência, organização e entrega de resultados**. Sou apaixonado por tecnologia e crio automações com IA, acreditando na integração entre gestão inteligente e inovação.
 
 ---
 
